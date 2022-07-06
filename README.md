@@ -1,6 +1,6 @@
 # dbank
 
-This is a decentralized application, designed for the innternet computer (ICP). 
+This is a decentralized application, designed for the internet computer (ICP). 
 This application imitates a financial institution in a very crude sense where it generates compund on the assets it has in its possession.
 This is based on the Motoko language, which helps in dealing with the ICP.
 
