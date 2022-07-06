@@ -1,0 +1,10 @@
+let = constant declaration
+var = variable declaration
+creating the class which holds the canister, this is called the actor
+(:=) assignment
+dfx canister call <name of the canister> <name of the function you wish to call>
+automatic assignment to number is set to natural number (Nat)
+orthogonal persistence can be triggered by the use of a single keyword i.e. "stable"
+There might be some problems related to npm start after deploying. just do a webpack install for the latest version and it works just fine after that.
+"npm install webpack-cli@4.10.0"
+  
